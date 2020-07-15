@@ -3,5 +3,6 @@ class Task{
         this.id = id;
         this.name = name;
         this.descr = descr;
+        this.isMark = false;
     }
 }
